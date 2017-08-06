@@ -7,6 +7,10 @@
 
 package rgblog
 
+import (
+	"fmt"
+)
+
 // Formats the output according to the format string and uses the provided interface data to fill
 // it in. The output is wrapped with ANSI color escape codes, which can be used to make standard
 // output more readable, in supporting shells.
