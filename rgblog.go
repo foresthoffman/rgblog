@@ -1,5 +1,5 @@
 /**
- * rgb.go
+ * rgblog.go
  *
  * Copyright (c) Forest Hoffman, 2017.
  * All Rights Reserved.
