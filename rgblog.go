@@ -1,8 +1,8 @@
 /**
  * rgblog.go
  *
- * Copyright (c) Forest Hoffman, 2017.
- * All Rights Reserved.
+ * Copyright (c) 2017 Forest Hoffman. All Rights Reserved.
+ * License: MIT License (see the included LICENSE file)
  */
 
 package rgblog
